@@ -1,0 +1,1 @@
+﻿Basic exercises used to learn JavaScript.
